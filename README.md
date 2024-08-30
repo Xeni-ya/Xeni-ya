@@ -10,9 +10,9 @@ I am slowly but surely moving towards my dream</p>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeni-ya&layout=compact&card_width=695)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeni-ya&layout=compact&card_width=844)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Xeni-ya&theme=noctis-minimus&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&card_width=695&card_height=100)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xeni-ya&theme=noctis-minimus&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&card_width=844)](https://git.io/streak-stats)
 
 <!-- - 👋 Hi, I’m @Xeni-ya
 - 👀 I’m interested in ...
