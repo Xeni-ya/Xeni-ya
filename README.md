@@ -9,6 +9,7 @@ I am slowly but surely moving towards my dream</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -16,9 +17,9 @@ I am slowly but surely moving towards my dream</p>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://komarev.com/ghpvc/?username=Xeni-ya&style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeni-ya&layout=compact&card_width=695)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeni-ya&layout=compact&card_width=844)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Xeni-ya&theme=noctis-minimus&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&card_width=695&card_height=100)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xeni-ya&theme=noctis-minimus&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&card_width=844)](https://git.io/streak-stats)
 
 <!-- - 👋 Hi, I’m @Xeni-ya
 - 👀 I’m interested in ...
