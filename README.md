@@ -1,4 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">𝙷𝚒, 𝙸’𝚖 <a href="#" target="_blank">𝚇𝚎𝚗𝚒𝚢𝚊</a>
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">After graduating from university, I realized that I would not work in my specialty, but I want to do what I like, what makes my eyes burn and when you see the result of your work! Then I clearly understood for myself in which direction I want to develop. 
 I am currently studying to be a frontend developer. 
@@ -10,6 +14,7 @@ I am slowly but surely moving towards my dream</p>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeni-ya&layout=compact&card_width=844)](https://github.com/anuraghazra/github-readme-stats)
 
