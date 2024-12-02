@@ -1,9 +1,7 @@
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpzOWI3aHVoZTN6anBwNXVkcXoyZXhjOTcwamgzanp4dnRyNDRxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x1CjxowaWEV1YXV47t/giphy.gif" width="150"/>
 </div>
-
 <h1 align="center">𝙸’𝚖 <a href="#" target="_blank">𝚇𝚎𝚗𝚒𝚢𝚊</a></h1>
-
 
 ### Here's some fun facts about me:
 
