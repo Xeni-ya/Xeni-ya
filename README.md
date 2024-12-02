@@ -9,7 +9,7 @@
 
 - I am currently undergoing training, studying frontend development.
 
-- I have a channel where I tell you how my studies are going. I share my thoughts, useful links, and talk about my small victories on the way to becoming a frontend developer.
+- I have a ![channel](https://t.me/xushacoding) where I tell you how my studies are going. I share my thoughts, useful links, and talk about my small victories on the way to becoming a frontend developer.
 
 - I was educated in the wrong specialty, in which I wanted to, and I fall under the definition of "when you grow up, you will do what you want" 😄
 
