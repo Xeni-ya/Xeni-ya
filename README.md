@@ -3,7 +3,6 @@
 </div>
 <h1 align="center">𝙸’𝚖 <a href="#" target="_blank">𝚇𝚎𝚗𝚒𝚢𝚊</a></h1>
 
-
 ### Here's some fun facts about me:
 
 - I am currently undergoing training, studying frontend development.
