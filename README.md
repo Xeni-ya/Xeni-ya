@@ -3,15 +3,15 @@
 </div>
 <h1 align="center">𝙸’𝚖 <a href="#" target="_blank">𝚇𝚎𝚗𝚒𝚢𝚊</a></h1>
 
-### Here's some fun facts about me:
+### Вот несколько интересных фактов обо мне:
 
-- I am currently undergoing training, studying frontend development.
+- Сейчас прохожу обучение, изучаю frontend-разработку.
 
-- I have a [channel](https://t.me/xushacoding) where I tell you how my studies are going. I share my thoughts, useful links, and talk about my small victories on the way to becoming a frontend developer.
+- У меня есть [канал](https://t.me/xushacoding), где я рассказываю, как проходит моя учеба. Делюсь мыслями, полезными ссылками, рассказываю о своих маленьких победах на пути к становлению frontend-разработчиком.
 
-- I was educated in the wrong specialty, in which I wanted to, and I fall under the definition of "when you grow up, you will do what you want" 😄
+- Играю в настолки, крашу миниатюры, читаю мангу
 
-### Technologies and Tools:
+### Технологии и инструменты:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,12 +23,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### Other Tools:
+### Другие инструменты:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### My Github stats:
+### Моя статистика на Github:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeni-ya&layout=compact&card_width=844)](https://github.com/anuraghazra/github-readme-stats)
 
